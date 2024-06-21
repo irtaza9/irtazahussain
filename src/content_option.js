@@ -16,7 +16,7 @@ const introdata = {
   },
   description:
     "Transforming Ideas into Interactive Digital Experiences with Cutting-Edge Web Development",
-  your_img_url: "https://i.ibb.co/BGmnPFh/IMG-20240430-WA0012.jpg",
+  your_img_url: "https://i.ibb.co/LvCpJby/IMG-20240621-212858.jpg",
 };
 
 const dataabout = {
