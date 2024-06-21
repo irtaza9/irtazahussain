@@ -4,6 +4,7 @@
     }
     .site__header {
         background-color: var(--bg-color);
+        right: 0;
     }
 }
 
