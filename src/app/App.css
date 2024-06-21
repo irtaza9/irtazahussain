@@ -2,6 +2,9 @@
     .s_c {
         padding-top: 40px;
     }
+    .site__header {
+        background-color: var(--bg-color);
+    }
 }
 
 .page-enter {

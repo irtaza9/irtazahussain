@@ -4,6 +4,13 @@
     padding-right: 10px;
 }
 
+.fixed-top-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1030;
+}
+
 .menu__button {
     color: var(--text-color);
 }
