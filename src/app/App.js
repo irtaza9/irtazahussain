@@ -7,6 +7,7 @@ import Headermain from "../header";
 import AnimatedCursor from "../hooks/AnimatedCursor";
 import "./App.css";
 import ThemeContextProvider from "../context/ThemeContext";
+import SavaGaza from "../components/saveGaza";
 
 function _ScrollToTop(props) {
   const { pathname } = useLocation();
@@ -35,6 +36,7 @@ export default function App() {
         <ScrollToTop>
           <Headermain />
           <AppRoutes />
+          <SavaGaza />
         </ScrollToTop>
       </ThemeContextProvider>
     </Router>
